@@ -7,7 +7,7 @@
       "request": "launch",
       "mainClass": "a",
       "cwd": "${workspaceFolder}",
-      "console": "internalConsole"
+      "console": "integratedTerminal"
     }
   ]
 }
