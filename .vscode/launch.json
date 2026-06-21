@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ss",
+      "request": "launch",
+      "mainClass": "ss",
+      "projectName": "java_study_f084f212"
+    },
+    {
+      "type": "java",
+      "name": "Run a",
+      "request": "launch",
+      "mainClass": "a",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
